@@ -1,4 +1,17 @@
-# Team 13 - ISRO Moon Mapping Challenge, Inter IIT Tech Meet 11.0 (Team ID - 13, Secondary ID - 26)
+# ISRO Moon Mapping Challenge, Inter IIT Tech Meet 11.0 
+The Chandrayaan-2 Mission of ISRO was launched on July 22, 2019 from the
+Indian Space Port, Sriharikota by GSLV Mk-III. It was a highly complex mission
+comprising many new technological developments. The mission is designed to
+expand the lunar scientific knowledge through detailed study of topography,
+mineral identification and distribution, surface chemical composition, as well as the
+lunar exosphere.
+The Chandrayaan-2 Orbiter carry total eight scientific payloads. The Orbiter
+Higher Resolution Camera (OHRC) onboard Chadrayaan-2 Orbiter is an imaging
+payloads which provides high resolution (~ 30 cm) images of lunar surface. The
+Terrain Mapping Camera-2 (TMC-2) Chadrayaan-2 Orbiter maps the lunar
+surface in the panchromatic spectral band (0.5-0.8 microns) with a spatial
+resolution of 5 meter. The data collected by TMC-2 provides clues about the
+Moon’s evolution and help prepare 3D maps of the lunar surface.
 
 ## Update: We won a Bronze Medal! Special Thanks to Manoj hard carrying us!
 ![](assets/sample1.png)
