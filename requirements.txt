@@ -1,0 +1,9 @@
+matplotlib
+numpy
+opencv_python
+Pillow
+PyYAML
+rasterio
+torch
+torchvision
+tqdm
